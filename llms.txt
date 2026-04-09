@@ -1,0 +1,25 @@
+# Bank Account Levy -- How to Protect Your Money [2026]
+> Bank account frozen by a levy? Learn how to release funds, claim exemptions, and prevent future levies. 2026 guide.
+
+## About
+bankaccountlevy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- When Your Bank Account Is Frozen: https://bankaccountlevy.com/bank-account-freeze.html
+- Challenging a Bank Account Levy: https://bankaccountlevy.com/challenging-a-levy.html
+- Exempt Funds -- Money Creditors Cannot Take: https://bankaccountlevy.com/exempt-funds.html
+- How Bank Account Levies Work: https://bankaccountlevy.com/how-levies-work.html
+- Bank Account Levy -- How to Protect Your Money: https://bankaccountlevy.com/
+- Joint Account Levies: https://bankaccountlevy.com/joint-account-levy.html
+- Levy vs. Garnishment -- Understanding the Difference: https://bankaccountlevy.com/levy-vs-garnishment.html
+- Preventing Future Bank Account Levies: https://bankaccountlevy.com/preventing-levies.html
+- Protecting Social Security From Bank Levies: https://bankaccountlevy.com/social-security-protection.html
+- State Exemption Claims for Bank Levies: https://bankaccountlevy.com/state-exemption-claims.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
