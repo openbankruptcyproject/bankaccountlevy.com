@@ -1,5 +1,5 @@
 # Bank Account Levy - How to Protect Your Money [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Bank account frozen by a levy? Learn how to release funds, claim exemptions, and prevent future levies. 2026 guide.
 
@@ -7,17 +7,71 @@
 bankaccountlevy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- When Your Bank Account Is Frozen: https://bankaccountlevy.com/bank-account-freeze.html
-- Challenging a Bank Account Levy: https://bankaccountlevy.com/challenging-a-levy.html
-- Exempt Funds - Money Creditors Cannot Take: https://bankaccountlevy.com/exempt-funds.html
+- Bank Account Freeze [2026]: How Levy Holds Work and the 21-Day Federal Hold Period: https://bankaccountlevy.com/bank-account-freeze.html
+- Challenging a Bank Account Levy [2026]: Claim of Exemption, Procedural Defects, and Wrong Defendant Defenses: https://bankaccountlevy.com/challenging-a-levy.html
+- Exempt Funds in a Bank Levy [2026]: 42 USC 407 Social Security, VA, SSI, and State Protections: https://bankaccountlevy.com/exempt-funds.html
 - How Bank Account Levies Work: https://bankaccountlevy.com/how-levies-work.html
 - Bank Account Levy - How to Protect Your Money: https://bankaccountlevy.com/
-- Joint Account Levies: https://bankaccountlevy.com/joint-account-levy.html
-- Levy vs. Garnishment - Understanding the Difference: https://bankaccountlevy.com/levy-vs-garnishment.html
-- Preventing Future Bank Account Levies: https://bankaccountlevy.com/preventing-levies.html
-- Protecting Social Security From Bank Levies: https://bankaccountlevy.com/social-security-protection.html
-- State Exemption Claims for Bank Levies: https://bankaccountlevy.com/state-exemption-claims.html
+- Joint Bank Account Levy [2026]: When a Creditor Can Take Both Owners' Funds: https://bankaccountlevy.com/joint-account-levy.html
+- Bank Levy vs Wage Garnishment [2026]: How the Two Collection Tools Differ Under State Law: https://bankaccountlevy.com/levy-vs-garnishment.html
+- Preventing Bank Account Levies [2026]: Pre-Judgment Strategies and Exempt-Funds Accounts: https://bankaccountlevy.com/preventing-levies.html
+- Social Security Levy Protection [2026]: 42 USC 407 and the 31 CFR 212 Two-Month Lookback Rule: https://bankaccountlevy.com/social-security-protection.html
+- Filing a State Claim of Exemption [2026]: Bank Levy Response Windows and Procedural Steps: https://bankaccountlevy.com/state-exemption-claims.html
 - Privacy Policy: https://bankaccountlevy.com/privacy.html
+- About bankaccountlevy.com: https://bankaccountlevy.com/about.html
+- Bank Account Freeze After Filing Bankruptcy - What Banks Do and Why: https://bankaccountlevy.com/bank-freeze-after-bankruptcy.html
+- Alabama Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/alabama.html
+- Alaska Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/alaska.html
+- Arizona Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/arizona.html
+- Arkansas Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/arkansas.html
+- California Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/california.html
+- Colorado Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/colorado.html
+- Connecticut Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/connecticut.html
+- Delaware Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/delaware.html
+- District of Columbia Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/district-of-columbia.html
+- Florida Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/florida.html
+- Georgia Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/georgia.html
+- Hawaii Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/hawaii.html
+- Idaho Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/idaho.html
+- Illinois Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/illinois.html
+- Bank Levy Exempt Funds Rules by State: https://bankaccountlevy.com/states/
+- Indiana Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/indiana.html
+- Iowa Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/iowa.html
+- Kansas Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/kansas.html
+- Kentucky Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/kentucky.html
+- Louisiana Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/louisiana.html
+- Maine Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/maine.html
+- Maryland Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/maryland.html
+- Massachusetts Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/massachusetts.html
+- Michigan Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/michigan.html
+- Minnesota Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/minnesota.html
+- Mississippi Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/mississippi.html
+- Missouri Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/missouri.html
+- Montana Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/montana.html
+- Nebraska Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/nebraska.html
+- Nevada Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/nevada.html
+- New Hampshire Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/new-hampshire.html
+- New Jersey Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/new-jersey.html
+- New Mexico Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/new-mexico.html
+- New York Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/new-york.html
+- North Carolina Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/north-carolina.html
+- North Dakota Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/north-dakota.html
+- Ohio Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/ohio.html
+- Oklahoma Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/oklahoma.html
+- Oregon Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/oregon.html
+- Pennsylvania Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/pennsylvania.html
+- Rhode Island Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/rhode-island.html
+- South Carolina Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/south-carolina.html
+- South Dakota Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/south-dakota.html
+- Tennessee Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/tennessee.html
+- Texas Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/texas.html
+- Utah Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/utah.html
+- Vermont Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/vermont.html
+- Virginia Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/virginia.html
+- Washington Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/washington.html
+- West Virginia Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/west-virginia.html
+- Wisconsin Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/wisconsin.html
+- Wyoming Bank Account Levy: Exempt Funds and Protest Rules: https://bankaccountlevy.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
